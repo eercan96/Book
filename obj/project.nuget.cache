@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/R3Kzxc0O5U=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\emree\\OneDrive\\Masaüstü\\NET-Core-Developer-Dive-Bootcamp-main\\.NET-Core-Developer-Dive-Bootcamp-main\\BooksApp\\BooksApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\emree\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\emree\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\emree\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\emree\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
